@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 – some of my stuff
 
 <!--
 **mb21/mb21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- ✍🏽 [blog](http://mb21.github.io/blog/)
+- 📚 [reading list](https://github.com/mb21/reading-list#readme)
+- 📄 [CV](https://github.com/mb21/mb21.github.io/blob/master/cv/cv.md)
+- [PanWriter](https://panwriter.com/) – a markdown editor with [pandoc](https://pandoc.org/) integration
