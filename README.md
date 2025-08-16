@@ -8,6 +8,6 @@
 
 Things I made:
 
-- [Mastro](https://mastrojs.github.io/) – a static site generator running in your browser
-- [Reactive Mastro](https://github.com/mb21/mastro/tree/main/src/reactive#reactive-mastro) – a tiny reactive GUI library for your existing MPA
+- [Mastro](https://mastrojs.github.io/) – the simplest website generator you’ve ever seen.
+- [Reactive Mastro](https://github.com/mb21/mastro/tree/main/src/reactive#reactive-mastro) – a tiny reactive GUI library for your existing MPA.
 - [PanWriter](https://panwriter.com/) – a markdown editor with [pandoc](https://pandoc.org/) integration
