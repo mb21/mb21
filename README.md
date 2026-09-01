@@ -1,8 +1,8 @@
 # Mauro Bieg
 
-- [My Website](http://mb21.github.io/)
-  - 📄 [CV](https://mb21.github.io/cv/)
-  - ✍️ [Blog](http://mb21.github.io/blog/) ([RSS](https://mb21.github.io/blog/feed.xml))
+- [My Website](https://maurobieg.com)
+  - 📄 [CV](https://maurobieg.com/cv/)
+  - ✍️ [Blog](https://maurobieg.com/blog/) ([RSS](https://maurobieg.com/blog/feed.xml))
 - 🦋 [Bluesky](https://bsky.app/profile/mb21.bsky.social)
 - 🦣 [Mastodon](https://hachyderm.io/@mb21)
 - 📚 [reading list](https://github.com/mb21/reading-list#readme)
